@@ -6,6 +6,6 @@ Nicolás Garófalo - 100952
 
 Agustin Daverede - 98540
 
-Ramiro Chogri - Nosétupadrón
+Ramiro Chogri - 100499
 
-Benjamin Ortiz - Tampocoséeltuyo
+Benjamin Ortiz - 100585
