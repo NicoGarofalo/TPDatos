@@ -12,6 +12,6 @@ Benjamin Ortiz - 100585
 
 ### Links:
 
-Informe: [Agregar el link porque no se cual es]()
+Informe: [Agregar el link]()
 
 TP dentro del repositorio: [TP](TP1.ipynb)
