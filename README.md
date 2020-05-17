@@ -12,6 +12,6 @@ Benjamin Ortiz - 100585
 
 ### Links:
 
-Informe: [Agregar el link]()
+Informe: [Overleaf](https://www.overleaf.com/read/vmmtjtwqfnpz)
 
 TP dentro del repositorio: [TP](TP1.ipynb)
