@@ -14,4 +14,4 @@ Benjamin Ortiz - 100585
 
 Informe: [Agregar el link porque no se cual es]()
 
-TP dentro del repositorio: [TP](TPDatos/TP1.ipynb)
+TP dentro del repositorio: [TP](TP1.ipynb)
