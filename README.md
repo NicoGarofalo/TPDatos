@@ -10,8 +10,4 @@ Ramiro Chogri - 100499
 
 Benjamin Ortiz - 100585
 
-### Links:
-
-Informe: [Overleaf](https://www.overleaf.com/read/vmmtjtwqfnpz)
-
 TP dentro del repositorio: [TP](TP1.ipynb)
